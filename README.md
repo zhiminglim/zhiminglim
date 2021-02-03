@@ -9,7 +9,7 @@
 <h3 align="left">Passionate full stack developer, photographer, and student of life</h3>
 
 - 📝 Programming to me is like reading a book of Harry Potter. Sitting down feeling like you can conjure magic and make anything you want 🧙
-- 🔭 I'm currently working on an application to visualize weather data in Singapore
+- 🔭 I'm currently working on a few side projects such as a mini-game application, and also a platform to visualize weather data in Singapore
 - 🌱 I’m currently learning **MERN stack, Gatsby, Swift**
 - 💬 Ask me about **Java, Javascript, React, MongoDB**
 - 🎥 Besides making web applications in my spare time, I sometimes photograph memories and make videos (one of my favourites is this from [Norway](https://www.youtube.com/watch?v=IZIyPsi3KR4))
