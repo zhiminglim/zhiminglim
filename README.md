@@ -6,7 +6,7 @@
 
 ![](https://komarev.com/ghpvc/?username=zhiminglim&color=blue)
 
-<h3 align="center">Passionate full stack developer, photographer, and student of life</h3>
+<h3 align="left">Passionate full stack developer, photographer, and student of life</h3>
 
 - 🌱 I’m currently learning **React, Gatsby, Node.js**
 - 💬 Ask me about **Java, Javascript, React, MongoDB**
