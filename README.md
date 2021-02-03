@@ -8,7 +8,10 @@
 
 <h3 align="left">Passionate full stack developer, photographer, and student of life</h3>
 
-- 🌱 I’m currently learning **React, Gatsby, Node.js**
+- 📝 Programming to me is like reading a book of Harry Potter. Sitting down feeling like you can conjure magic and make anything you want 🧙
+- 🔭 I'm currently working on an application to visualize weather data in Singapore
+- 🌱 I’m currently learning **MERN stack, Gatsby, Swift**
 - 💬 Ask me about **Java, Javascript, React, MongoDB**
+- 🎥 Besides making web applications in my spare time, I sometimes photograph memories and make videos (one of my favourites is this from [Norway](https://www.youtube.com/watch?v=IZIyPsi3KR4))
+- ⚡ Fun fact: I like vehicles and enjoy driving; I used to transport people from point to point as a part-time job and I also have a certificate for flying solo in a [Sling 2 LSA](https://www.planeandpilotmag.com/images/stories/2012/sept/sling/lead.jpg) 🙂
 - 📫 How to reach me: [zhiminglim9@gmail.com](mailto:zhiminglim9@gmail.com)
-- ⚡ Fun fact: I have a certificate for flying solo in [this](https://www.planeandpilotmag.com/images/stories/2012/sept/sling/lead.jpg) 🙂
